@@ -12,7 +12,6 @@ Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white&style=flat"/>
 </div>
 
-#3178C6
 
 ### 활동률
 ![bigyou98's github stats](https://github-readme-stats.vercel.app/api?username=bigyou98&show_icons=true)
