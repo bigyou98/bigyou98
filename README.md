@@ -1,4 +1,4 @@
-### 👋 안녕하세요 98년생 프론트엔드개발자를 꿈꾸는 박상훈입니다.
+### 👋 프론트엔드개발자
 <div>Blog : <a href="https://velog.io/@bigyou98">상훈's Steady</a> <br />
 Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
 </div>  
