@@ -1,5 +1,8 @@
 ### 👋 안녕하세요 98년생 프론트엔드개발자를 꿈꾸는 박상훈입니다.
-<div>블로그 : <a href="https://velog.io/@bigyou98">상훈's Steady</a></div>  
+<div>Blog : <a href="https://velog.io/@bigyou98">상훈's Steady</a> <br />
+Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
+</div>  
+
 <div align=center>
   <h2>Use Stacks</h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
