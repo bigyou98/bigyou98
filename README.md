@@ -1,5 +1,6 @@
 ### 👋 프론트엔드개발자
-<div>Blog : <a href="https://velog.io/@bigyou98">상훈's Steady</a> <br />
+<div>
+Blog : <a href="https://velog.io/@bigyou98">상훈's Steady</a> <br />
 Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
 </div>  
 
