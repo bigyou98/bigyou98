@@ -3,6 +3,7 @@
 Blog : <a href="https://bigyou98.tistory.com/">상훈's Steady</a> <br />
 Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
 </div>  
+
 <div align=center>
   <h2>Use Stacks</h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
@@ -16,7 +17,9 @@ Instagram : <a href="https://www.instagram.com/sh_03_26/?hl=ko">sh_03_26</a>
 
 
 ### 활동률
-![bigyou98's github stats](https://github-readme-stats.vercel.app/api?username=bigyou98&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyou98)](https://solved.ac/bigyou98/)
 [![bigyou98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bigyou98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bigyou98)
+![bigyou98's github stats](https://github-readme-stats.vercel.app/api?username=bigyou98&show_icons=true)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bigyou98)
