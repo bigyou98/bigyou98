@@ -30,8 +30,6 @@
 - CS 지식 공부 : [기술 블로그](https://bigyou98.tistory.com/)
 - 헬스
 
----
-
 ### 👉 [자기소개서 자세히 보기](https://sanghoon98.notion.site/897e3e5d39dc4d86b849fea212b090c4)
 
 <div align=center>
