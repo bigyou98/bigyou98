@@ -33,7 +33,7 @@
 ---
 
 ### 👉 [자기소개서 자세히 보기](https://sanghoon98.notion.site/897e3e5d39dc4d86b849fea212b090c4)
-### 👉 [포트폴리오 자세히 보기](https://sanghoon98.notion.site/DB-58ca56b75cfe42b6b613cbd46949ccd3)
+
 <div align=center>
   <h2>Use Stacks</h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
