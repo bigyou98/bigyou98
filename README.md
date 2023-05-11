@@ -20,7 +20,7 @@
 - CS 지식 공부 : [기술 블로그](https://bigyou98.tistory.com/)
 - 헬스
 
-### 👉 [자기소개서 자세히 보기](https://www.notion.so/809f54d8afdf4de48c4b239c4538dbde)
+### 👉 [자기소개서 자세히 보기](https://sanghoon98.notion.site/897e3e5d39dc4d86b849fea212b090c4)
 ### 👉 [포트폴리오 자세히 보기](https://sanghoon98.notion.site/DB-58ca56b75cfe42b6b613cbd46949ccd3)
 <div align=center>
   <h2>Use Stacks</h2>
