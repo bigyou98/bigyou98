@@ -1,4 +1,3 @@
-![image](https://github.com/bigyou98/bigyou98/assets/76721795/8d27fe7d-e8c8-47f4-afcb-a84b26b2b587)
 ## 👋안녕하세요 **담을 넘는 프론트엔드 개발자 박상훈**입니다.
 
 대학에서 IT전공을 하며 전공 지식을 쌓았고 2021년 3월부터 `React`를 사용해 프론트엔드 개발을 하였고 현재는 `TypeScript`와 `Next.js`를 사용하며 **2년간의 개발 경험**이 있습니다.<br />
