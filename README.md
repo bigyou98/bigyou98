@@ -18,4 +18,3 @@
 
 ### 활동률
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigyou98)](https://solved.ac/bigyou98/)
-![bigyou98's github stats](https://github-readme-stats.vercel.app/api?username=bigyou98&show_icons=true)
